@@ -1,4 +1,6 @@
 CSCI3308-Final
 ==============
+ The
+OMG IM EDITING THE README 
 
-The final project repo for Dallas Hays, Ethan Kreloff, and Aaron Rosano
+final project repo for Dallas Hays, Ethan Kreloff, and Aaron Rosano
